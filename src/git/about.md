@@ -7,6 +7,9 @@ For almost all software projects, the source code is like the crown jewels - a p
 
 Version control software like Git is widely used in software development, being fluent in operation of it will allow you to better and more efficiently contribute to your team's work.
 
-## Why use it?
-
+## Why use git?
+There are a multitude of benefits to using version control software like git; the three main ones are:
+1. Having a complete long term change history of every file. This means changes made and who by, creation and deletion of files, notes on changes and more.
+2. Branching and merging. Infact this resource here has been developed using exactly this process, allowing individuals to work on different stream idependently and then merging them together and handing conflicts.
+3. Traceability, being able to track each change and having an annotaed history of the code can enable others to make harmonious changes to the project.
 ~
